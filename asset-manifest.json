@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bondidle/static/css/main.ee4db2b2.css",
+    "main.js": "/Bondidle/static/js/main.ad664083.js",
+    "static/js/453.ed3810f9.chunk.js": "/Bondidle/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Bondidle/index.html",
+    "main.ee4db2b2.css.map": "/Bondidle/static/css/main.ee4db2b2.css.map",
+    "main.ad664083.js.map": "/Bondidle/static/js/main.ad664083.js.map",
+    "453.ed3810f9.chunk.js.map": "/Bondidle/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee4db2b2.css",
+    "static/js/main.ad664083.js"
+  ]
+}
