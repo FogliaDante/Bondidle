@@ -1,0 +1,164 @@
+{
+  "colectivos": [
+    {
+      "linea": "5",
+      "color": "Rojo y blanco",
+      "zona": "CABA-Norte",
+      "tipo": "Urbano",
+      "empresa": "T.A. Noroeste",
+      "anio": 1930
+    },
+    {
+      "linea": "7",
+      "color": "Azul y blanco",
+      "zona": "CABA-Oeste",
+      "tipo": "Urbano",
+      "empresa": "Transportes Río de la Plata",
+      "anio": 1945
+    },
+    {
+      "linea": "12",
+      "color": "Verde y negro",
+      "zona": "CABA-Sur",
+      "tipo": "Urbano",
+      "empresa": "S.A. Línea 12",
+      "anio": 1950
+    },
+    {
+      "linea": "14",
+      "color": "Amarillo y negro",
+      "zona": "CABA-Norte",
+      "tipo": "Urbano",
+      "empresa": "Transporte Mitre",
+      "anio": 1960
+    },
+    {
+      "linea": "15",
+      "color": "Celeste y blanco",
+      "zona": "AMBA",
+      "tipo": "Interurbano",
+      "empresa": "Autobuses Sur",
+      "anio": 1958
+    },
+    {
+      "linea": "28",
+      "color": "Negro y rojo",
+      "zona": "AMBA",
+      "tipo": "Interurbano",
+      "empresa": "DOTA",
+      "anio": 1970
+    },
+    {
+      "linea": "39",
+      "color": "Bordó y blanco",
+      "zona": "CABA-Oeste",
+      "tipo": "Urbano",
+      "empresa": "T.A. 39 S.A.",
+      "anio": 1948
+    },
+    {
+      "linea": "45",
+      "color": "Verde oscuro",
+      "zona": "CABA-Centro",
+      "tipo": "Urbano",
+      "empresa": "M.O.N.S.A.",
+      "anio": 1965
+    },
+    {
+      "linea": "60",
+      "color": "Amarillo y azul",
+      "zona": "AMBA",
+      "tipo": "Interurbano",
+      "empresa": "M.O.N.S.A.",
+      "anio": 1931
+    },
+    {
+      "linea": "67",
+      "color": "Azul y gris",
+      "zona": "CABA-Norte",
+      "tipo": "Urbano",
+      "empresa": "T.A. del Oeste",
+      "anio": 1957
+    },
+    {
+      "linea": "68",
+      "color": "Rojo y blanco",
+      "zona": "CABA-Sur",
+      "tipo": "Urbano",
+      "empresa": "DOTA",
+      "anio": 1940
+    },
+    {
+      "linea": "71",
+      "color": "Verde lima",
+      "zona": "AMBA",
+      "tipo": "Interurbano",
+      "empresa": "La Central",
+      "anio": 1978
+    },
+    {
+      "linea": "76",
+      "color": "Naranja y blanco",
+      "zona": "CABA-Este",
+      "tipo": "Urbano",
+      "empresa": "Línea 76 S.A.",
+      "anio": 1980
+    },
+    {
+      "linea": "85",
+      "color": "Celeste",
+      "zona": "AMBA",
+      "tipo": "Interurbano",
+      "empresa": "Expreso Quilmes",
+      "anio": 1968
+    },
+    {
+      "linea": "93",
+      "color": "Azul y rojo",
+      "zona": "CABA-Centro",
+      "tipo": "Urbano",
+      "empresa": "T.A. 9 de Julio",
+      "anio": 1954
+    },
+    {
+      "linea": "99",
+      "color": "Negro y amarillo",
+      "zona": "CABA-Sur",
+      "tipo": "Urbano",
+      "empresa": "T.A. Sur S.A.",
+      "anio": 1971
+    },
+    {
+      "linea": "105",
+      "color": "Gris y azul",
+      "zona": "CABA-Oeste",
+      "tipo": "Urbano",
+      "empresa": "Línea 105 S.A.",
+      "anio": 1959
+    },
+    {
+      "linea": "111",
+      "color": "Rojo oscuro y negro",
+      "zona": "CABA-Norte",
+      "tipo": "Urbano",
+      "empresa": "Línea 111 S.A.",
+      "anio": 1962
+    },
+    {
+      "linea": "114",
+      "color": "Verde y blanco",
+      "zona": "CABA-Centro",
+      "tipo": "Urbano",
+      "empresa": "T.A. Capital",
+      "anio": 1943
+    },
+    {
+      "linea": "152",
+      "color": "Naranja y negro",
+      "zona": "CABA-Oeste",
+      "tipo": "Urbano",
+      "empresa": "Nueva Ideal S.A.",
+      "anio": 1965
+    }
+  ]
+}
